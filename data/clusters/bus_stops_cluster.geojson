@@ -1,0 +1,3608 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-03T14:22:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427144770",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ледовый дворец",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.467137,
+          59.9207998
+        ]
+      },
+      "id": "node/427144770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/521976765",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Антонова-Овсеенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4650407,
+          59.9074298
+        ]
+      },
+      "id": "node/521976765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/524322154",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Антонова-Овсеенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4648724,
+          59.9079825
+        ]
+      },
+      "id": "node/524322154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649809",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тельмана",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4903767,
+          59.8919103
+        ]
+      },
+      "id": "node/537649809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649819",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тельмана",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4912497,
+          59.8927233
+        ]
+      },
+      "id": "node/537649819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649831",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Большевиков, 33",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4917936,
+          59.8953145
+        ]
+      },
+      "id": "node/537649831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649852",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Большевиков, 33",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4911858,
+          59.8950863
+        ]
+      },
+      "id": "node/537649852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649857",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4886747,
+          59.9006643
+        ]
+      },
+      "id": "node/537649857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649867",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4891196,
+          59.8995315
+        ]
+      },
+      "id": "node/537649867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649876",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Шотмана, Университет телекоммуникаций",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4863843,
+          59.9024663
+        ]
+      },
+      "id": "node/537649876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649883",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Шотмана, Университет телекоммуникаций",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4867325,
+          59.9027278
+        ]
+      },
+      "id": "node/537649883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649891",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4829737,
+          59.9060229
+        ]
+      },
+      "id": "node/537649891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649898",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4826779,
+          59.9071299
+        ]
+      },
+      "id": "node/537649898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649905",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.483658,
+          59.907105
+        ]
+      },
+      "id": "node/537649905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537649914",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4840634,
+          59.9068337
+        ]
+      },
+      "id": "node/537649914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656389",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Тельмана, 34",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.472405,
+          59.891513
+        ]
+      },
+      "id": "node/537656389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656390",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Тельмана, 34",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4717311,
+          59.8915615
+        ]
+      },
+      "id": "node/537656390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656391",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тельмана, угол Искровского проспекта",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4784753,
+          59.893458
+        ]
+      },
+      "id": "node/537656391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656392",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4777071,
+          59.8929285
+        ]
+      },
+      "id": "node/537656392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656393",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4749976,
+          59.8967588
+        ]
+      },
+      "id": "node/537656393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656394",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4749229,
+          59.8972539
+        ]
+      },
+      "id": "node/537656394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537656395",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Тельмана, 45",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4842031,
+          59.8926729
+        ]
+      },
+      "id": "node/537656395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738255769",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Улица Ворошилова, 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4431192,
+          59.9221097
+        ]
+      },
+      "id": "node/738255769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738255832",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ворошилова, 7",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4456471,
+          59.9237359
+        ]
+      },
+      "id": "node/738255832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738256909",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "проспект Пятилеток, Ледовый дворец",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4660134,
+          59.9207078
+        ]
+      },
+      "id": "node/738256909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738256971",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Проспект Большевиков»",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4673225,
+          59.9192556
+        ]
+      },
+      "id": "node/738256971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738257013",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Клочков переулок",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4624598,
+          59.9180839
+        ]
+      },
+      "id": "node/738257013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/748887222",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ворошилова, 7",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4445829,
+          59.9236993
+        ]
+      },
+      "id": "node/748887222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/967632260",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "парк Боевого Братства",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4514005,
+          59.9179107
+        ]
+      },
+      "id": "node/967632260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1032203415",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4946771,
+          59.9175421
+        ]
+      },
+      "id": "node/1032203415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1032423198",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.484231,
+          59.9150995
+        ]
+      },
+      "id": "node/1032423198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097911974",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Подвойского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4630886,
+          59.909503
+        ]
+      },
+      "id": "node/1097911974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097912192",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Подвойского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4627448,
+          59.9102258
+        ]
+      },
+      "id": "node/1097912192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097913955",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4568654,
+          59.9159794
+        ]
+      },
+      "id": "node/1097913955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097920515",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Клочков переулок",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4638915,
+          59.9180267
+        ]
+      },
+      "id": "node/1097920515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1097920546",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай, угол Искровского проспекта",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4573992,
+          59.9164708
+        ]
+      },
+      "id": "node/1097920546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1140851553",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Октябрьская набережная, угол улицы Крыленко",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4469715,
+          59.892572
+        ]
+      },
+      "id": "node/1140851553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1140851556",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Октябрьская набережная, угол улицы Крыленко",
+        "public_transport": "platform",
+        "share_taxi": "no",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447047,
+          59.8935074
+        ]
+      },
+      "id": "node/1140851556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179386249",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4905332,
+          59.9243373
+        ]
+      },
+      "id": "node/1179386249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179389162",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности, угол улицы Коллонтай",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4896407,
+          59.9248171
+        ]
+      },
+      "id": "node/1179389162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1179390942",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай, угол проспекта Солидарности",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4886762,
+          59.924285
+        ]
+      },
+      "id": "node/1179390942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180309236",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "проспект Солидарности, 11",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4922212,
+          59.9211703
+        ]
+      },
+      "id": "node/1180309236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180309240",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай, 47",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4972493,
+          59.9262562
+        ]
+      },
+      "id": "node/1180309240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180309248",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай, 47",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4978155,
+          59.9261066
+        ]
+      },
+      "id": "node/1180309248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1180309249",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "проспект Солидарности, 11",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4924982,
+          59.9216521
+        ]
+      },
+      "id": "node/1180309249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1181033893",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Универсам «Александровский»",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4845678,
+          59.9229299
+        ]
+      },
+      "id": "node/1181033893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1181033931",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Универсам «Александровский»",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4835649,
+          59.9230398
+        ]
+      },
+      "id": "node/1181033931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1181046052",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Чудновского, 6",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4766965,
+          59.929275
+        ]
+      },
+      "id": "node/1181046052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1182744871",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "станция метро «Проспект Большевиков»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.471531,
+          59.9198017
+        ]
+      },
+      "id": "node/1182744871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1186247236",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Антонова-Овсеенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4788781,
+          59.9111392
+        ]
+      },
+      "id": "node/1186247236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1186247237",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Подвойского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4766597,
+          59.9135832
+        ]
+      },
+      "id": "node/1186247237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1186247244",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Подвойского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4777109,
+          59.9132886
+        ]
+      },
+      "id": "node/1186247244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273990902",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Российский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.470524,
+          59.9262693
+        ]
+      },
+      "id": "node/1273990902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273990907",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского, 3",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4646186,
+          59.9307285
+        ]
+      },
+      "id": "node/1273990907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273990910",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Латышских Стрелков",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4718496,
+          59.9253317
+        ]
+      },
+      "id": "node/1273990910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273990912",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Лицей № 572",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4654383,
+          59.9275409
+        ]
+      },
+      "id": "node/1273990912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1274359957",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "улица Латышских Стрелков",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4609502,
+          59.928435
+        ]
+      },
+      "id": "node/1274359957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1318838060",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Чудновского, 6",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4763522,
+          59.9291292
+        ]
+      },
+      "id": "node/1318838060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330185643",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Октябрьская набережная, 38",
+        "public_transport": "platform",
+        "share_taxi": "no",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4373593,
+          59.9039985
+        ]
+      },
+      "id": "node/1330185643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1401907326",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Ладожская»",
+        "note": "видимо, пригородные автобусы: 429, 532, 533, 462",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "no",
+        "surface": "asphalt",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4411626,
+          59.9324951
+        ]
+      },
+      "id": "node/1401907326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432399098",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект",
+        "passenger_information_display": "yes",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.455483,
+          59.9164092
+        ]
+      },
+      "id": "node/1432399098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432399099",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "парк Боевого Братства",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4531569,
+          59.9173573
+        ]
+      },
+      "id": "node/1432399099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432399100",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "парк Боевого Братства",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4525186,
+          59.9180357
+        ]
+      },
+      "id": "node/1432399100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432625418",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Бадаева",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4559166,
+          59.9167974
+        ]
+      },
+      "id": "node/1432625418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1586327329",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Ладожская»",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4408715,
+          59.9330127
+        ]
+      },
+      "id": "node/1586327329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676106198",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Пятилеток",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4481679,
+          59.9250738
+        ]
+      },
+      "id": "node/1676106198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676108802",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ворошилова, 9",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.446594,
+          59.9250743
+        ]
+      },
+      "id": "node/1676108802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676112123",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Джона Рида",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4553547,
+          59.9236455
+        ]
+      },
+      "id": "node/1676112123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676113176",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Джона Рида",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.456528,
+          59.9230009
+        ]
+      },
+      "id": "node/1676113176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1725020334",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Подвойского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4766554,
+          59.9128104
+        ]
+      },
+      "id": "node/1725020334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803909365",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Тельмана, 45",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4833722,
+          59.8928754
+        ]
+      },
+      "id": "node/1803909365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803909366",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Тельмана",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.489893,
+          59.8924855
+        ]
+      },
+      "id": "node/1803909366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803909367",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Шотмана",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4727715,
+          59.8995029
+        ]
+      },
+      "id": "node/1803909367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1803909371",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Шотмана",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4729886,
+          59.8988639
+        ]
+      },
+      "id": "node/1803909371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898078384",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "универсам «Невский»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4741043,
+          59.9156056
+        ]
+      },
+      "id": "node/1898078384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1898078386",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "универсам «Невский»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.474075,
+          59.9162206
+        ]
+      },
+      "id": "node/1898078386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1921409080",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4902166,
+          59.9086438
+        ]
+      },
+      "id": "node/1921409080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102093018",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Социальный фонд",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4443623,
+          59.9195183
+        ]
+      },
+      "id": "node/2102093018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102093021",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Социальный фонд",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4436751,
+          59.9197968
+        ]
+      },
+      "id": "node/2102093021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102376004",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского, 3",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4642201,
+          59.9306997
+        ]
+      },
+      "id": "node/2102376004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102376455",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Российский проспект, 14",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4725316,
+          59.927695
+        ]
+      },
+      "id": "node/2102376455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102376456",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Российский проспект, 14",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4734024,
+          59.9282287
+        ]
+      },
+      "id": "node/2102376456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131033815",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "станция метро «Проспект Большевиков»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4707178,
+          59.9191546
+        ]
+      },
+      "id": "node/2131033815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2295188225",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.461125,
+          59.9289206
+        ]
+      },
+      "id": "node/2295188225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2315414369",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Антонова-Овсеенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4787788,
+          59.9105786
+        ]
+      },
+      "id": "node/2315414369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418663766",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Дыбенко, угол Искровского проспекта",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4697917,
+          59.9034776
+        ]
+      },
+      "id": "node/2418663766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418663767",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Дыбенко, 22",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4773474,
+          59.9052715
+        ]
+      },
+      "id": "node/2418663767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2418663811",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности",
+        "public_transport": "platform",
+        "shelter": "no",
+        "trolleybus": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4958751,
+          59.9180977
+        ]
+      },
+      "id": "node/2418663811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466524980",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4920611,
+          59.9087441
+        ]
+      },
+      "id": "node/2466524980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2524285548",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "улица Коллонтай",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4404636,
+          59.9124933
+        ]
+      },
+      "id": "node/2524285548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569515389",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Ворошилова, 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4421578,
+          59.9220397
+        ]
+      },
+      "id": "node/2569515389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2589452689",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Кржижановского, 5",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4708421,
+          59.9323133
+        ]
+      },
+      "id": "node/2589452689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2589452691",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского, 5",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4705758,
+          59.9324606
+        ]
+      },
+      "id": "node/2589452691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638966792",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Венская улица",
+        "public_transport": "platform",
+        "share_taxi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5055012,
+          59.9027902
+        ]
+      },
+      "id": "node/2638966792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2638966793",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Венская улица",
+        "public_transport": "platform",
+        "share_taxi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5057508,
+          59.9029084
+        ]
+      },
+      "id": "node/2638966793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2751854606",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.476799,
+          59.930858
+        ]
+      },
+      "id": "node/2751854606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2751855503",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4766788,
+          59.9316846
+        ]
+      },
+      "id": "node/2751855503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2751855985",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4727074,
+          59.9260115
+        ]
+      },
+      "id": "node/2751855985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2751857467",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Лицей № 572",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4659867,
+          59.9272114
+        ]
+      },
+      "id": "node/2751857467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2908267711",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Дальневосточный проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.440357,
+          59.9128475
+        ]
+      },
+      "id": "node/2908267711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2909552177",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4859555,
+          59.9152395
+        ]
+      },
+      "id": "node/2909552177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2950248640",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Бадаева, 8",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4466239,
+          59.9190772
+        ]
+      },
+      "id": "node/2950248640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997122047",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Октябрьская набережная, 38",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4376722,
+          59.9033117
+        ]
+      },
+      "id": "node/2997122047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997152757",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Ладожская»",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4404942,
+          59.9326819
+        ]
+      },
+      "id": "node/2997152757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013864515",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект, 6",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4591634,
+          59.914046
+        ]
+      },
+      "id": "node/3013864515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013864516",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Дыбенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4693249,
+          59.9027723
+        ]
+      },
+      "id": "node/3013864516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013864523",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Дыбенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4687315,
+          59.9038487
+        ]
+      },
+      "id": "node/3013864523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013864525",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект, 6",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4593116,
+          59.9135542
+        ]
+      },
+      "id": "node/3013864525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013890261",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4796899,
+          59.9217383
+        ]
+      },
+      "id": "node/3013890261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013890262",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Коллонтай, угол проспекта Солидарности",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4897221,
+          59.9237928
+        ]
+      },
+      "id": "node/3013890262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013890263",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности",
+        "public_transport": "platform",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4966747,
+          59.9177962
+        ]
+      },
+      "id": "node/3013890263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3013890272",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4777298,
+          59.9216984
+        ]
+      },
+      "id": "node/3013890272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729634087",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Нерчинская улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4461221,
+          59.9141913
+        ]
+      },
+      "id": "node/3729634087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3729635881",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Нерчинская улица",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4480859,
+          59.9143219
+        ]
+      },
+      "id": "node/3729635881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018288810",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Психоневрологический интернат №10",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4971824,
+          59.9277511
+        ]
+      },
+      "id": "node/4018288810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4084107119",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Чудновского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4750449,
+          59.9238914
+        ]
+      },
+      "id": "node/4084107119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841995394",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Центральная улица",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5046934,
+          59.9120779
+        ]
+      },
+      "id": "node/4841995394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083334584",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Клочков переулок",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4627747,
+          59.9186409
+        ]
+      },
+      "id": "node/5083334584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5488254193",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Чудновского",
+        "public_transport": "platform",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4753063,
+          59.9246936
+        ]
+      },
+      "id": "node/5488254193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5852042938",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Белышева",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4524451,
+          59.915318
+        ]
+      },
+      "id": "node/5852042938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5852042939",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Белышева",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4498427,
+          59.9151211
+        ]
+      },
+      "id": "node/5852042939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7008074450",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Областная улица, 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5045022,
+          59.9156972
+        ]
+      },
+      "id": "node/7008074450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7008074451",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Областная улица, 1",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5041909,
+          59.9159492
+        ]
+      },
+      "id": "node/7008074451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165598",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Александровская больница",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4868218,
+          59.9277658
+        ]
+      },
+      "id": "node/7081165598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165601",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Александровская больница",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4860051,
+          59.9277591
+        ]
+      },
+      "id": "node/7081165601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165603",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4843918,
+          59.9295029
+        ]
+      },
+      "id": "node/7081165603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165605",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Кржижановского",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4777158,
+          59.9313226
+        ]
+      },
+      "id": "node/7081165605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165611",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Товарищеский проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4784355,
+          59.92219
+        ]
+      },
+      "id": "node/7081165611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7081165617",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4793022,
+          59.8929018
+        ]
+      },
+      "id": "node/7081165617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7537171910",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4816185,
+          59.9066252
+        ]
+      },
+      "id": "node/7537171910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7537171915",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Дыбенко, 22",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.475873,
+          59.9052466
+        ]
+      },
+      "id": "node/7537171915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8449841320",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дальневосточный проспект, 12",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4349414,
+          59.9143693
+        ]
+      },
+      "id": "node/8449841320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8449841322",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Дальневосточный проспект, 12",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.435054,
+          59.9138899
+        ]
+      },
+      "id": "node/8449841322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9029561385",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Проспект Большевиков»",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4677506,
+          59.9200903
+        ]
+      },
+      "id": "node/9029561385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9043795934",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Центральная улица",
+        "public_transport": "platform",
+        "share_taxi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5059902,
+          59.9118739
+        ]
+      },
+      "id": "node/9043795934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9098825264",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ладожский вокзал",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "no",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4398099,
+          59.9320877
+        ]
+      },
+      "id": "node/9098825264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9098947413",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Станция метро «Ладожская»",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4401216,
+          59.9316779
+        ]
+      },
+      "id": "node/9098947413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9099138785",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Заневский проспект",
+        "public_transport": "platform",
+        "share_taxi": "yes",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4357549,
+          59.932346
+        ]
+      },
+      "id": "node/9099138785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9228498131",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Дальневосточный проспект",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4585816,
+          59.9003766
+        ]
+      },
+      "id": "node/9228498131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297303878",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Улица Подвойского, 38",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4907044,
+          59.916565
+        ]
+      },
+      "id": "node/9297303878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9297303880",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Улица Подвойского, 38",
+        "public_transport": "platform",
+        "tactile_paving": "yes",
+        "trolleybus": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4916593,
+          59.9166176
+        ]
+      },
+      "id": "node/9297303880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9330654793",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект, угол улицы Коллонтай",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4791346,
+          59.921207
+        ]
+      },
+      "id": "node/9330654793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9828801924",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4849966,
+          59.9074257
+        ]
+      },
+      "id": "node/9828801924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964869",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "улица Дыбенко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4597134,
+          59.9011228
+        ]
+      },
+      "id": "node/9940964869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964870",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Дыбенко",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4588042,
+          59.9015001
+        ]
+      },
+      "id": "node/9940964870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964874",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4477689,
+          59.8928793
+        ]
+      },
+      "id": "node/9940964874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964875",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко, 3",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4548218,
+          59.8935237
+        ]
+      },
+      "id": "node/9940964875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964878",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Крыленко, 3",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4567972,
+          59.8935032
+        ]
+      },
+      "id": "node/9940964878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964879",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Крыленко",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4610954,
+          59.8939455
+        ]
+      },
+      "id": "node/9940964879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9940964881",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Дальневосточный проспект",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4622944,
+          59.8944023
+        ]
+      },
+      "id": "node/9940964881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9992781840",
+        "bench": "no",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Искровский проспект",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4681376,
+          59.9034447
+        ]
+      },
+      "id": "node/9992781840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10245721400",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4849707,
+          59.9154983
+        ]
+      },
+      "id": "node/10245721400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10245721402",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "name": "Товарищеский проспект, 3",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4818378,
+          59.9188248
+        ]
+      },
+      "id": "node/10245721402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10711219942",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ледовый дворец",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4667529,
+          59.9205312
+        ]
+      },
+      "id": "node/10711219942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10732527503",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "проспект Солидарности",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4852406,
+          59.9299542
+        ]
+      },
+      "id": "node/10732527503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10931287075",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Проспект Большевиков»",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4685701,
+          59.9191199
+        ]
+      },
+      "id": "node/10931287075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424186",
+        "bench": "no",
+        "highway": "bus_stop",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4598881,
+          59.9288508
+        ]
+      },
+      "id": "node/11075424186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424187",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4538161,
+          59.9305326
+        ]
+      },
+      "id": "node/11075424187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424188",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4556112,
+          59.9297723
+        ]
+      },
+      "id": "node/11075424188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424189",
+        "bench": "yes",
+        "bin": "no",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.445359,
+          59.9330169
+        ]
+      },
+      "id": "node/11075424189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424190",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4395653,
+          59.9202598
+        ]
+      },
+      "id": "node/11075424190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424191",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4409371,
+          59.9158584
+        ]
+      },
+      "id": "node/11075424191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11075424192",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4415434,
+          59.9177614
+        ]
+      },
+      "id": "node/11075424192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11113906118",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Дыбенко",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4455521,
+          59.8968716
+        ]
+      },
+      "id": "node/11113906118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11306172459",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Евдокима Огнева",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4610412,
+          59.8971811
+        ]
+      },
+      "id": "node/11306172459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11306172460",
+        "bench": "yes",
+        "bin": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "улица Евдокима Огнева",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4599771,
+          59.8978246
+        ]
+      },
+      "id": "node/11306172460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11343788250",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.438653,
+          59.9207757
+        ]
+      },
+      "id": "node/11343788250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11601776114",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "share_taxi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5060519,
+          59.8943072
+        ]
+      },
+      "id": "node/11601776114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11835195819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "станция метро «Улица Дыбенко»",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4819659,
+          59.9071082
+        ]
+      },
+      "id": "node/11835195819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12425957469",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "улица Бадаева, 8",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4478983,
+          59.9186042
+        ]
+      },
+      "id": "node/12425957469"
+    }
+  ]
+}
