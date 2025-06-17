@@ -139,7 +139,7 @@
 
 ---
 
-## Оркестратор конвейера
+## Задание пайплайна
 
 **Модуль:** `src/training_pipeline.py`  
 **Кратко:**
@@ -158,18 +158,3 @@
    - `residential_buildings_cluster.geojson`  
    - `commercial_buildings_cluster.geojson`  
    - `poi_cluster.geojson`  
-3. *(опционально)* pre-trained веса в `models/`:  
-   - `neural_bee_policy.pt`  
-   - `neural_planner_best.pth`  
-
-Остальные файлы генерируются автоматически каждым модулем.
-
----
-
-## Окружение и зависимости
-
-```bash
-pip install -r requirements.txt
-# Требуются GDAL/PROJ/GEOS для geopandas и osmnx
-# Выберите whl для torch под вашу систему (CPU/GPU).
-```
